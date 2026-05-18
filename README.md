@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan 'ch nasha tera, you're stealing the show
+> Kanch di tu gudiya, got that midnight glow
+> Ni main aashiq ban gaya, dekh teri taur
+> I'm pouring the champagne, baby give me some more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
