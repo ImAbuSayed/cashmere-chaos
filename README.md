@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cashmere-chaos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cashmere Chaos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cashmere-chaos/) |
+| **Get License** | [Obtain a Music License for Cashmere Chaos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cashmere-chaos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `186ca0c1bddc17e2de1064eecca6c55cdca51ed3855af3b1014ade031ad6a3b8` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
